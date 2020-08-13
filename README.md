@@ -1,6 +1,8 @@
-# 2016 Voting Analysis
+# US House of Reps Election Data.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bwarren2/voting_2016/master)
+This workbook examines US house elections at the district level.  Data goes back pretty far, from 1976 to 2018.
 
-Lots of people have lots of feels about the 2016 US Presidential election, but most of the graphics I have seen are bad.  This is my attempt to do better.
+Install requirements with `pip install -r requirements.txt`
+
+Start the notebook with `jupyter lab`.  Prefer the data_wrangling workbook.
 
